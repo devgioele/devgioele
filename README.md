@@ -70,8 +70,7 @@ We all know the arsenal of a programmer can hardly fit on a single page, but let
 </br>
 <a href="">
 <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
-</a>C
-</div>
+</a>C & Assembly
 
 # 🍺 Buy me a beer
 
