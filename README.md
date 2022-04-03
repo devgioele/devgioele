@@ -88,3 +88,5 @@ We all know that the arsenal of a based programmer can hardly fit on a single pa
 <img src="https://img.shields.io/badge/Monero-white?logo=monero&logoColor=orange&style=for-the-badge"/>
 
 `85RKTSH4opB2VtQknYEHEqVJY5FfMoMdCRbBi2eiiePiirGfN4fUDX93fxB6RUCb9hNFDJCiXDJo2J1Uey2Xe3kLUVqqf3q`
+
+<img src="https://media.giphy.com/media/RdHEgmHzEsoH7AHcUv/giphy.gif" width="100%"/>
