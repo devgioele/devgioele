@@ -79,9 +79,9 @@ We all know that the arsenal of a based programmer can hardly fit on a single pa
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
 </a>PostgreSQL
 </br>
-<a href="">
-<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
-</a>C & Assembly
+
+<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>C & Assembly
+</br>
 
 # 🍺 Buy me a beer
 
