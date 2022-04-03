@@ -6,6 +6,9 @@
   <a href="briar://adwht5br4udk26bs3u227jbrer42kzwqonsh4thdalxa64r3w75bq">
     <img src="https://img.shields.io/badge/Briar-green?logo=briar&logoColor=white&style=for-the-badge"/>
   </a>
+  
+  `briar://adwht5br4udk26bs3u227jbrer42kzwqonsh4thdalxa64r3w75bq`
+  
   <a href="https://t.me/devgioele">
     <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
@@ -87,8 +90,10 @@ We all know that the arsenal of a based programmer can hardly fit on a single pa
 
 # 🍺 Buy me a beer
 
-<img src="https://img.shields.io/badge/Monero-white?logo=monero&logoColor=orange&style=for-the-badge"/>
-
-`85RKTSH4opB2VtQknYEHEqVJY5FfMoMdCRbBi2eiiePiirGfN4fUDX93fxB6RUCb9hNFDJCiXDJo2J1Uey2Xe3kLUVqqf3q`
-
-<img src="https://media.giphy.com/media/RdHEgmHzEsoH7AHcUv/giphy.gif" width="100%"/>
+<div id="donations" align="center">
+  <img src="https://img.shields.io/badge/Monero-white?logo=monero&logoColor=orange&style=for-the-badge"/>
+  
+  `85RKTSH4opB2VtQknYEHEqVJY5FfMoMdCRbBi2eiiePiirGfN4fUDX93fxB6RUCb9hNFDJCiXDJo2J1Uey2Xe3kLUVqqf3q`
+  
+  <img src="https://media.giphy.com/media/RdHEgmHzEsoH7AHcUv/giphy.gif" width="100%"/>
+</div>
