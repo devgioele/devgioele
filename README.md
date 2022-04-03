@@ -46,9 +46,11 @@
 
 ... and many other projects that I cannot show for now 😉
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgioele&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 # 🔧 Languages and tools
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgioele&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgioele&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 We all know that the arsenal of a based programmer can hardly fit on a single page, but let me mention some elements I am most proud of:
 
