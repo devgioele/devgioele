@@ -24,6 +24,8 @@
 
 🚀 On the way of becoming a **full-stack** engineer
 
+📚 Studying **Computer Science BSc** at [unibz](https://www.unibz.it/)
+
 🌍 Specializing in Geographic Information Systems (**GIS**)
 
 > Passion drives my work and I strive for perfection in everything I do. This doesn't mean that I achieve perfection, but those who try accomplish great things along the way!
