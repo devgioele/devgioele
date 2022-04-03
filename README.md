@@ -14,31 +14,42 @@
   </a>
   
   <h1 align="center">
-    Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    Griaß di <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </h1>
 </div>
 
 # 🌄 About me
 
-I am a software engineer that builds web apps and embedded systems.
+🛸 I'm building **web apps** and **embedded systems**
 
-> Passion drives my work and I strive for perfection in everything I do. This doesn't mean that I achieve perfection, but those who try achieve great things along the way!
+🚀 On the way of becoming a **full-stack** engineer
 
-#### Trilingual
-* English
-* German
-* Italian
+🌍 Specializing in Geographic Information Systems (**GIS**)
+
+> Passion drives my work and I strive for perfection in everything I do. This doesn't mean that I achieve perfection, but those who try accomplish great things along the way!
+
+### 🐲 Trilingual
+* English - C1
+* German - native
+* Italian - native
 
 > Life choices that make me more independent bring me joy!
 
+# 🏠 Projects
+
+[![Books frontend](https://github-readme-stats.vercel.app/api/pin/?username=devgioele&repo=books-frontend&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+... and many other projects that I cannot show for now 😉
+
 # 🔧 Languages and tools
 
-We all know the arsenal of a programmer can hardly fit on a single page, but let me mention the elements I am most proud of:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgioele&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+We all know that the arsenal of a based programmer can hardly fit on a single page, but let me mention some elements I am most proud of:
 
 <a href="https://www.typescriptlang.org/">
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
-</a>Type script
+</a>TypeScript
 </br>  
 <a href="https://reactjs.org/">
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
@@ -74,6 +85,6 @@ We all know the arsenal of a programmer can hardly fit on a single page, but let
 
 # 🍺 Buy me a beer
 
-<a href="monero://85RKTSH4opB2VtQknYEHEqVJY5FfMoMdCRbBi2eiiePiirGfN4fUDX93fxB6RUCb9hNFDJCiXDJo2J1Uey2Xe3kLUVqqf3q">
-  <img src="https://img.shields.io/badge/Monero-white?logo=monero&logoColor=orange&style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Monero-white?logo=monero&logoColor=orange&style=for-the-badge"/>
+
+`85RKTSH4opB2VtQknYEHEqVJY5FfMoMdCRbBi2eiiePiirGfN4fUDX93fxB6RUCb9hNFDJCiXDJo2J1Uey2Xe3kLUVqqf3q`
