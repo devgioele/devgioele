@@ -1,14 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/YkmMNvvBAUTOllDO6l/giphy.gif" width="300"/>
-</div>
-
 <div id="badges" align="center">
-  <a href="briar://adwht5br4udk26bs3u227jbrer42kzwqonsh4thdalxa64r3w75bq">
-    <img src="https://img.shields.io/badge/Briar-green?logo=briar&logoColor=white&style=for-the-badge"/>
-  </a>
-  
-  `briar://adwht5br4udk26bs3u227jbrer42kzwqonsh4thdalxa64r3w75bq`
-  
   <a href="https://t.me/devgioele">
     <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
