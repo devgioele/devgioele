@@ -11,7 +11,7 @@
 
 🛸 I'm building **web apps** and **embedded systems**
 
-🚀 On the way of becoming a **full-stack** engineer
+🚀 **Full-stack** web engineer
 
 📚 Studying **Computer Science BSc** at [unibz](https://www.unibz.it/)
 
