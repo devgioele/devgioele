@@ -26,11 +26,7 @@
 
 > Life choices that make me more independent bring me joy!
 
-# 🏠 Projects
-
-[![Books frontend](https://github-readme-stats.vercel.app/api/pin/?username=devgioele&repo=books-frontend&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-... and many other projects that I cannot show for now 😉
+# 🏹 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgioele&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
