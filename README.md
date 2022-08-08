@@ -33,10 +33,6 @@
 
 > Life choices that make me more independent bring me joy!
 
-# 🏹 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgioele&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 # 🔧 Languages and tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgioele&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
