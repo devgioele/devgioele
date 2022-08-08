@@ -47,10 +47,6 @@ We all know that the arsenal of a based programmer can hardly fit on a single pa
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 </a>ReactJS
 </br>
-<a href="https://mui.com/">
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>
-</a>MUI (Material UI)
-</br>
 <a href="https://www.rust-lang.org/">
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"/>
 </a>Rust
